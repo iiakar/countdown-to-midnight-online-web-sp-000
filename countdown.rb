@@ -1,5 +1,6 @@
 #write your code here
 
 def countdown
-  c
+  x = 10
+  while 
 end
